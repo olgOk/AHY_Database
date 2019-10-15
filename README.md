@@ -10,6 +10,7 @@ meeting their immediate needs and providing a safe, supportive environment and a
 ### Contents
 * [About the FileMaker App](#About-the-FileMaker-App)
 * [Functionality and Features](#Functionality-and-Features)
+* [Access](#Access)
 
 
 ### About the FileMaker App
@@ -54,5 +55,16 @@ This application has been done as a group project after two week of intensive Fi
 * Intake Report
 ![Report](/img/Report.png)
 --------------------------------------------------------------------
+
+### Access
+----------------------
+1. As a Staffer:
+  Login `staff`
+  Password `staff`
+  
+2. As an Administrator
+  Login `Admin`
+  Password `AHY_admin`
+
 [1]: https://github.com/olgOk
 [2]: https://github.com/KirillVNaumov
