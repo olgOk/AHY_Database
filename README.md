@@ -29,7 +29,14 @@ This application has been done as a group project after two week of intensive Fi
 
 ### Functionality and Features
 ----------------------------------
-* 
+* iPad adapted User Interface
+* Intake/Exit Forms of Interview
+* Life Skills Assessment, Case Notes and Referrals
+* Two levels of security: Staffer and Administrator
+* Built-In Signature Capture on iPad devices
+* Ad hoc searches for Interviews meeting various criteria
+* Ad hoc searches for Client Persons meeting various criteria
+* Intake Report
 
 
 [1]: https://github.com/olgOk
