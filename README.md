@@ -33,19 +33,19 @@ This application has been done as a group project after two week of intensive Fi
 ----------------------------------
 * iPad adapted User Interface
 * Intake/Exit Forms of Interview
-![Intake_Exit_Inter](/img/Intake_Exit_Inter)
+![Intake_Exit_Inter](/img/Intake_Exit_Inter.png)
 * Life Skills Assessment, Case Notes and Referrals
-![LSAss_CN_Ref](/img/LSAss_CN_Ref)
+![LSAss_CN_Ref](/img/LSAss_CN_Ref.png)
 * Two levels of security: Staffer and Administrator
-![Security](/img/Security)
+![Security](/img/Security.png)
 * Built-In Signature Capture on iPad devices
-![Signature](/img/Signature)
+![Signature](/img/Signature.png)
 * Ad hoc searches for Interviews meeting various criteria
-![SearchByInterview](/img/SearchByInterview)
+![SearchByInterview](/img/SearchByInterview.png)
 * Ad hoc searches for Client Persons meeting various criteria
-![SearchByClient](/img/SearchByClient)
+![SearchByClient](/img/SearchByClient.png)
 * Intake Report
-![Report](/img/Report)
+![Report](/img/Report.png)
 
 
 [1]: https://github.com/olgOk
