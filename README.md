@@ -5,6 +5,8 @@ via a networked collection of programs, including an emergency shelter, a drop-i
 training programs, outreach, and more. AHY’s programs stabilize homeless teens’ lives,
 meeting their immediate needs and providing a safe, supportive environment and a path to self-sufficiency.
 
+![HomePage](/img/HomePage.png)
+
 ### Contents
 * [About the FileMaker App](#About-the-FileMaker-App)
 * [Functionality and Features](#Functionality-and-Features)
