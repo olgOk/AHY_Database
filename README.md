@@ -7,6 +7,8 @@ meeting their immediate needs and providing a safe, supportive environment and a
 
 ### Contents
 * [About the FileMaker App](#About-the-FileMaker-App)
+* [Functionality and Features](#Functionality-and-Features)
+
 
 ### About the FileMaker App
 -------------------------------
@@ -20,3 +22,15 @@ Currently these forms are completed on paper, then transcribed into spreadsheets
 and also transcribed into online systems such as government-mandated central databases.
 A FileMaker database holding this data would revolutionize AHY's ability to quickly evaluate change
 over time in order to make more informed decisions about clients, programming, and individual/group trends.
+
+This application has been done as a group project after two week of intensive FileMaker bootcamp. The team consists of the following members:
+1. [Olga Okrut][1]
+2. [Kirill Naumov][2]
+
+### Functionality and Features
+----------------------------------
+* 
+
+
+[1]: https://github.com/olgOk
+[2]: https://github.com/KirillVNaumov
