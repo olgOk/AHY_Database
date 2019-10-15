@@ -5,6 +5,11 @@ via a networked collection of programs, including an emergency shelter, a drop-i
 training programs, outreach, and more. AHY’s programs stabilize homeless teens’ lives,
 meeting their immediate needs and providing a safe, supportive environment and a path to self-sufficiency.
 
+### Contents
+* [About the FileMaker App](#About-the-FileMaker-App)
+
+### About the FileMaker App
+-------------------------------
 AHY FileMaker app aims to help out at digitizing the most critical data collected about each client,
 with the goals of supporting searchability, of enabling visibility of change over time
 for the individual client, and of enabling visibility into data aggregated AHY-wide by certain
