@@ -60,10 +60,12 @@ This application has been done as a group project after two week of intensive Fi
 ----------------------
 1. As a Staffer:
   Login `staff`
+  
   Password `staff`
   
 2. As an Administrator
   Login `Admin`
+  
   Password `AHY_admin`
 
 [1]: https://github.com/olgOk
