@@ -43,6 +43,7 @@ This application has been done as a group project after two week of intensive Fi
 ![Security](/img/Security.png)
 
 * Built-In Signature Capture on iPad devices
+
 ![Signature](/img/Signature.png)
 
 * Ad hoc searches for Interviews meeting various criteria
