@@ -60,15 +60,15 @@ This application has been done as a group project after two week of intensive Fi
 ----------------------
 1. As a Staffer:
 
-  Login `staff`
+    Login `staff`
   
-  Password `staff`
+    Password `staff`
   
 2. As an Administrator
 
-  Login `Admin`
+    Login `Admin`
   
-  Password `AHY_admin`
+    Password `AHY_admin`
 
 [1]: https://github.com/olgOk
 [2]: https://github.com/KirillVNaumov
