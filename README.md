@@ -32,7 +32,7 @@ This application has been done as a group project after two week of intensive Fi
 
 ### Functionality and Features
 ----------------------------------
-* iPad adapted User Interface
+* iPad adapted User Interface. Implementation of Desktop and iPad layouts.
 ----------------------------------
 * Intake/Exit Forms of Interview
 ![Intake_Exit_Inter](/img/Intake_Exit_Inter.png)
