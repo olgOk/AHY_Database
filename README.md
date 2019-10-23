@@ -11,6 +11,7 @@ meeting their immediate needs and providing a safe, supportive environment and a
 * [About the FileMaker App](#About-the-FileMaker-App)
 * [Functionality and Features](#Functionality-and-Features)
 * [Access](#Access)
+* [Assessment](#Assessment)
 
 
 ### About the FileMaker App
@@ -69,6 +70,11 @@ This application has been done as a group project after two week of intensive Fi
     Login `Admin`
   
     Password `AHY_admin`
+   
+### Assessment
+--------------------
+[See Assessment and Score][3]
 
 [1]: https://github.com/olgOk
 [2]: https://github.com/KirillVNaumov
+[3]: https://github.com/olgOk/FileMaker-Project-AHY/blob/master/Team%20J_2person_Project%20Assessment_v2.pdf
